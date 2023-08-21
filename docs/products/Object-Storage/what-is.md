@@ -16,4 +16,4 @@ S3 compatible Object Storage storage provides the following key features:
 
 ## S3 Compatibility
 
-The Contabo Object Storage is based on [Ceph](https://ceph.com/). It is not fully compatible with AWS S3 API. E.g. logging is not supported. For the very most use cases you shouldn't notice any difference.
+The Contabo Object Storage is based on [Ceph](https://ceph.com/). It is not fully compatible with AWS S3 API. E.g. logging is not supported. For most use cases you shouldn't notice any difference.
